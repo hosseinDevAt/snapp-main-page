@@ -82,6 +82,8 @@ private fun SetUI() {
 
             BannerItem()
 
+            SpacerHeight(20)
+
         }
 
         Box(
